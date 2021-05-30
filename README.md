@@ -17,7 +17,5 @@ Link : https://youtu.be/1awwHp6ofjg
 <b><h1>|||     Asteroid    |||</b></h1>
 <img src = "https://drive.google.com/uc?id=1UhCr2cXNmGvdrGB5aIDo5YMfZHcBSnqH&export=download">
 
-
-
 <b><h1>|||     Lamp    |||</b></h1>
 <img src = "https://drive.google.com/uc?id=1Qb9YS8eNXBtkzNm8lxZWLdJZA9rCM79F&export=download">

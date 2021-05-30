@@ -1,2 +1,2 @@
 
-<img src = "https://drive.google.com/uc?id=1u0TVsPAwJUpUEvQOrh0X_bW7hMyK1d01&export=download">
+<img src = "https://drive.google.com/uc?id=1sk2elV-cbOgBf7-fJhE-SSE5cIeIxb8o&export=download">
